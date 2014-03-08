@@ -2,7 +2,7 @@
 
 .fx: first
 
-/**/Mesut Çittir `<mesut.cittir@bil.omu.edu.tr>`
+Mesut Çittir `<mesut.cittir@bil.omu.edu.tr>`
 
 http://mctr.github.io
 

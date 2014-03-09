@@ -2,13 +2,11 @@
 
 .fx: first
 
-Mesut Çittir `<mesut.cittir@bil.omu.edu.tr>`
+Mesut Çittir `<mesut.cittir@bil.omu.edu.tr>`                 
+Sayfalar : 2-15
 
-http://mctr.github.io
-
-Sümeyra Özgür `<sumeyra.ozgur@bil.omu.edu.tr>`
-
-http://sozgur.github.com
+Sümeyra Özgür `<sumeyra.ozgur@bil.omu.edu.tr>`               
+Sayfalar : 16-28
 
 Mart 2014
 
@@ -472,7 +470,7 @@ Bunun için `:set` komutunu kullanarak vim`in istedigimiz gibi davranmasını sa
 
 * `let g:syntastic_check_on_open = 1` Komut girmeden söz dizimi kontrolleri yapılmasını sağlar.Default degeri 0 olarak gelir
 
-* Error ve Warning uyarılarının yanına sembolde yerleştirebilriz
+* Error ve Warning uyarılarının yanına sembolde yerleştirebiliriz
 	+ `let g:syntastic_error_symbol = '✗'`
 
 	+ `let g:syntastic_warning_symbol = '⚠'`

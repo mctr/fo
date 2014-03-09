@@ -365,7 +365,11 @@ Bunun için `:set` komutunu kullanarak vim`in istedigimiz gibi davranmasını sa
 
 * Vim her açılışında burdaki ayarları kullanarak açılacaktır
 
-* Örnegim `syntax on` sözdizimine göre renklendirme yapar 
+* `:edit ~/.vimrc` Bu komutu verdiğinizde eğer yoksa home dizininizde .vimrc isimli bir dosya oluşacaktır
+
+* Bu dosyaya vimrc örnek dosyasını aktarmak için de bu komutu kullanabilirsiniz `:read $VIMRUNTIME/vimrc_example.vim`
+
+* Örnegin `syntax on` sözdizimine göre renklendirme yapar 
 
 ---
 

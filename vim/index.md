@@ -409,7 +409,7 @@ Bunun için `:set` komutunu kullanarak vim`in istedigimiz gibi davranmasını sa
 
 * vim i açıp şu komutu çalıştırıyoruz `:BundleInstall`
 
-* Eklemek istedigimiz eklentiyi `Bundle 'scrooloose/syntastic'` şeklinde yazıyoruz ve komutu çalıştırıyoruz, bu komut bu eklentiyi kuruyor
+* Eklemek istedigimiz eklentiyi `Bundle 'scrooloose/syntastic'` şeklinde .vimrc dosyasına yazıyoruz ve komutu çalıştırıyoruz, bu komut bu eklentiyi kuruyor
 
 ---
 

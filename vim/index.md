@@ -184,7 +184,9 @@ Vim 3 ana hattan oluşur
 
 ## Dosya İçerisinde Dolaşma
 
-* Dosya içerisinde h-j-k-l tuşları ve yön tuşları ile dolaşabiliyorduk
+* Dosya içerisinde h-j-k-l tuşları ve yön tuşları ile dolaşabiliriz
+
+* h sola, j aşagı, k yukarı, l ise saga dogru imleci hareket ettirir
 
 * `3j` komutu ile 3 satır aşagıya gidilir
 

@@ -339,6 +339,8 @@ Vim içerisinde standart ayarları kullanabileceginiz gibi bazen vim`in o ana ö
 
 Bunun için `:set` komutunu kullanarak vim`in istedigimiz gibi davranmasını saglayabiliriz
 
+* Vim in dosya türünü tuttugu yani hangi dosya içerisinde oldugumuzu tuttugu degişkeni bu şekilde ögrenebiliriz `:set ft?`
+
 * `:syntax on` dosya tipine göre renklendirme/biçimlendirme yapar
 
 * `:set number/nonumber` satır başlarında numara gözükmesini/gözükmemesini saglar
